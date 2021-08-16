@@ -13,8 +13,8 @@ A second part to the analysis is to design a machine learning model to predict c
 * 'Arvato Project Workbook.ipynb' - Notebook with analysis code and results.
 * 'DIAS Attributes - Values 2017.xlsx' - Information on demographic data attribute possible values.
 * 'DIAS Information Levels - Attributes 2017.xlsx' - Information on attribute descriptions and meanings.
-* 'Udacity_AZDIAS_052018.csv' - Dataset of demographic data from general population.
-* 'Udacity_CUSTOMERS_052018.csv' - Dataset of demographic data from current customers.
+* 'Udacity_AZDIAS_052018.csv' - Dataset of demographic data from general population. Not published due to file size.
+* 'Udacity_CUSTOMERS_052018.csv' - Dataset of demographic data from current customers. Not published due to file size.
 * 'mailout_train.csv' - Dataset of customer information & response to mail campaign to be used to train model.
 * 'mailout_test.csv' - Dataset of customer information without response to mail campaign. Model runs of this dataset to produce predictions submitted to the associated Kaggle competition.
 
@@ -74,4 +74,4 @@ This model can be deployed on Arvato's customer data to determine which customer
 
 Check out the associated blog post for this analyis here:
 
-[Medium]().
+[Arvato Financial Customer Segmentation on Medium](https://neuralfiber0307.medium.com/arvato-financial-customer-segmentation-fca16df315c3).
